@@ -4,7 +4,6 @@ A program designed to change your resolution quick and easy!
 **Quick Resolution has a few ways to change your resolution at ease!**
 
 **There is Resolution Presets**
-Presets: 
 - 2560 x 1440
 - 1920 x 1080
 - 1680 x 1050
