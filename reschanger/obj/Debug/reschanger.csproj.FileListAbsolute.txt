@@ -1,0 +1,29 @@
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\reschanger.exe.config
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\reschanger.exe
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\reschanger.pdb
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.csproj.AssemblyReference.cache
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.Form1.resources
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.Properties.Resources.resources
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.csproj.GenerateResource.cache
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.csproj.CoreCompileInputs.cache
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.exe
+C:\Users\jlame\source\repos\reschanger\reschanger\obj\Debug\reschanger.pdb
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\QRes.exe
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\1080.bat
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\1280.bat
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\1440.bat
+C:\Users\jlame\source\repos\reschanger\reschanger\bin\Debug\1920.bat
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.csproj.AssemblyReference.cache
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.Form1.resources
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.Properties.Resources.resources
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.csproj.GenerateResource.cache
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.csproj.CoreCompileInputs.cache
+C:\Users\jlame\source\repos\Res Changer\reschanger\bin\Debug\QRes.exe
+C:\Users\jlame\source\repos\Res Changer\reschanger\bin\Debug\Quick Res.exe.config
+C:\Users\jlame\source\repos\Res Changer\reschanger\bin\Debug\Quick Res.exe
+C:\Users\jlame\source\repos\Res Changer\reschanger\bin\Debug\Quick Res.pdb
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\Quick Res.exe
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\Quick Res.pdb
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.UserControls.UC_Custom.resources
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.UserControls.UC_Presets.resources
+C:\Users\jlame\source\repos\Res Changer\reschanger\obj\Debug\reschanger.UserControls.Info.resources
